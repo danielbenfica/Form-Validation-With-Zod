@@ -7,6 +7,6 @@ Esse projeto não possui o objetivo de envio dos dados para uma API após o form
 
 Aqui há uma pre-visualização do projeto, Porém é possível ver sua animações e verifições funcionando no link:
 <br>
-<a target="_blank" href="https://form-validation-with-zod.vercel.app/">form-validation-with-zod.vercel.app</a>
+<a target="_blank" href="https://form-validation-with-zod.vercel.app/">form-validaion-with-zod</a>
 
 ![image](https://github.com/danielbenfica/Form-Validation-With-Zod/assets/132002681/6cba52f3-4d48-4121-b4d2-af38e9d29520)
