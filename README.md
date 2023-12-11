@@ -1,30 +1,11 @@
-# React + TypeScript + Vite
+# Form-Validation-With-Zod
+Neste proejto eu estudei como validar os dados preenchidos nos campos do formulário utilizando a biblioteca 'react-hook-form' e 'zod'.
+<br>
+Para a estilização, eu utilizei "tailwindcss" e também pratiquei conhecimentos de animações em css através dessa biblioteca
+<br>
+Esse projeto não possui o objetivo de envio dos dados para uma API após o formulário ser submetido, porém o código foi construido para possibilitar tal ação sem a necessidade de fazer grande alterações caso seje futuramente desejado
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aqui há uma pre-visualização do projeto, Porém é possível ver sua anições e verifições funcionando no link:
+https://form-validation-with-zod.vercel.app/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![image](https://github.com/danielbenfica/Form-Validation-With-Zod/assets/132002681/6cba52f3-4d48-4121-b4d2-af38e9d29520)
